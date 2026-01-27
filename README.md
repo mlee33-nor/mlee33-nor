@@ -10,8 +10,8 @@
 
   <div align="center">
 
-  | 🚀 Product | 💵 Model | 📊 Status |
-  |-----------|---------|----------|
+  | 🚀 Product | 📊 Status |
+  |-------------|-----------|
   | [RSA STOCK FINDER ]([https://github.com](https://github.com/mlee33-nor/RSA-STOCK-SPLIT-FINDER)) | In Development |
 
 ## 📈 Business Metrics
