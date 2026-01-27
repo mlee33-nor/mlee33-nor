@@ -37,12 +37,6 @@
   🔴 Scaling profitable products
 
   ---
-
-  ## 💪 What I've Learned
-  📍 Marketing is as important as coding
-  📍 One profitable product > 10 side projects
-  ---
-
   ## 🔗 Connect With Me
 
   <div align="center">
