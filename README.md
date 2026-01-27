@@ -50,8 +50,8 @@
 
   ## 🎯 2026 Goals
 
-  Q1: Launch 2 new iOS apps 
-  Q2: Reach $5,000 MRR across all products
+  Q1: Launch 10 new iOS apps 
+  Q2: Reach $11,000 MRR across all products
   Q3: Scale RSA and Stock analysis models
 
   ---
