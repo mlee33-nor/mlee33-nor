@@ -2,19 +2,7 @@
 
   # 👨‍💻 mlee33-nor
 
-  ### Full Stack Developer | Open Source Enthusiast | Code Enthusiast
-
-  ---  /     _____     /
-    _____ /  //  > /
-         / /    / /
-         |  |_/
-
-  **Building cool stuff one commit at a time** ⚡
-
-  [![GitHub followers](https://img.shields.io/github/followers/mlee33-nor?logo=github&style=for-the-badge)](https://gith
-  ub.com/mlee33-nor)
-  [![Profile Views](https://komarev.com/ghpvc/?username=mlee33-nor&style=for-the-badge&color=0891b2)](https://github.com
-  /mlee33-nor)
+  ### CLAUDE-Code Enthusiast
 
   </div>
 
