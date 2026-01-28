@@ -16,7 +16,7 @@
 ## 📈 Business Metrics
 
   Total MRR (RSA-STOCK-SPLIT-FINDER):     $800-1400/MONTH 
- 
+ https://github.com/mlee33-nor/RSA-STOCK-SPLIT-FINDER
 
   ---
 
