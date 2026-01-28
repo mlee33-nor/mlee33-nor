@@ -1,7 +1,7 @@
    ## 🎯 Mission
 
-  Building revenue-generating tools ran by 
-ran by autonoyms agent workforces.
+  Building revenue-generating tools that are ran by 
+ an autonoyms agent workforce.
   
   ---
 
