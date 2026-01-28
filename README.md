@@ -16,23 +16,14 @@
 
   Total MRR (RSA-STOCK-SPLIT-FINDER):     $800-1400/MONTH 
  
-  </div>
-
-  ---
-
-  ## 🛠️ Tools I Built For Revenue
-
-  ✅ **Stock market money makers** - Save time = save money
-  ✅ **iOS Apps** - Direct to consumer, high margins
+  </
 
   ---
 
   ## 🎯 Current Focus Areas
 
-  🔴 iOS app optimization & ASO (App Store Optimization)
-  🔴 Marketing automation & user acquisition
-  🔴 Analytics & data-driven decisions
-  🔴 Scaling profitable products
+  🔴 Fully automating revenue generation through an autonomous agent workforce
+  🔴 Marketing automation & user acquisition for IOS app suite.
 
   ---
   ## 🔗 Connect With Me
