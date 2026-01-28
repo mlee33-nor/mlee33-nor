@@ -1,6 +1,7 @@
    ## 🎯 Mission
 
-  Building revenue-generating tools for your average internet hustler.
+  Building revenue-generating tools ran by 
+ran by autonoyms agent workforces.
   
   ---
 
