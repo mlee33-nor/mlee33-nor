@@ -1,9 +1,7 @@
    ## 🎯 Mission
 
-  Building revenue-generating tools & iOS apps
-  Focused on product-market fit & revenue-generating tools for daily use.
+  Building revenue-generating tools for your average internet hustler.
   
-  Shipping > Perfection
   ---
 
   ## 📱 Revenue-Generating Products
@@ -22,7 +20,7 @@
 
   ---
 
-  ## 🛠️ Tools I Build For Revenue
+  ## 🛠️ Tools I Built For Revenue
 
   ✅ **Stock market money makers** - Save time = save money
   ✅ **iOS Apps** - Direct to consumer, high margins
