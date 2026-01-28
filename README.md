@@ -17,7 +17,6 @@
 
   Total MRR (RSA-STOCK-SPLIT-FINDER):     $800-1400/MONTH 
  
-  </
 
   ---
 
