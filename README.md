@@ -11,12 +11,14 @@
   | 🚀 Product | 📊 Status |
   |-------------|-----------|
   | [RSA STOCK FINDER ]([https://github.com](https://github.com/mlee33-nor/RSA-STOCK-SPLIT-FINDER)) | In Development |
-  | [EV FINDER ](Https://EvMaxxing.com| In Beta |
+  | EVMAXXING.COM | In Beta |
 
 ## 📈 Business Metrics
 
  (RSA-STOCK-SPLIT-FINDER):     $800/MO
+ 
  (EVMaxxing.com):              Undisclosed (Up 3 Units Feb 2026)
+ 
   ---
 
   ## 🎯 Current Focus Areas
