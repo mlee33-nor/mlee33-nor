@@ -1,8 +1,5 @@
    ## 🎯 Mission
-
-  Building revenue-generating tools run by autonomous agents.
-  
-  ---
+Scaling revenue with autonomous agents. Masterminded by human intellect.
 
   ## 📱 Revenue-Generating Products
 
@@ -41,8 +38,8 @@ https://www.linkedin.com/in/myles-norton-4b62a0240
   ## 🎯 2026 Goals
 
   Q1: Launch 10 new iOS apps 
-  Q2: Reach $11,000 MRR across all products
-  Q3: Scale RSA and Stock analysis models
+  Q2: Reach $8,000 MRR across all products
+  Q3: Scale RSA and Stock analysis models.
 
   ---
 
