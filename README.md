@@ -1,7 +1,6 @@
    ## 🎯 Mission
 
-  Building revenue-generating tools that are ran by 
- an autonoyms agent workforce.
+  Building revenue-generating tools run by autonomous agents.
   
   ---
 
@@ -12,12 +11,13 @@
   | 🚀 Product | 📊 Status |
   |-------------|-----------|
   | [RSA STOCK FINDER ]([https://github.com](https://github.com/mlee33-nor/RSA-STOCK-SPLIT-FINDER)) | In Development |
+  | [RSA STOCK FINDER ](Https://EvMaxxing.com| In Beta |
 
 ## 📈 Business Metrics
 
-  Total MRR (RSA-STOCK-SPLIT-FINDER):     $800-1400/MONTH 
- https://github.com/mlee33-nor/RSA-STOCK-SPLIT-FINDER
-
+ (RSA-STOCK-SPLIT-FINDER):     $800/MO
+ (EVMaxxing.com):              Undisclosed (Up 3 Units Feb 2026)
+_units differ by user - results will scale with the average unit per month profits._
   ---
 
   ## 🎯 Current Focus Areas
