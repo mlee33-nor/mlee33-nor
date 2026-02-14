@@ -1,6 +1,6 @@
    ## 🎯 Mission
-Scaling revenue with autonomous agents. Masterminded by human intellect.
-
+**##Scaling revenue with autonomous agents. Masterminded by human intellect.
+**
   ## 📱 Revenue-Generating Products
 
   <div align="center">
