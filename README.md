@@ -1,7 +1,5 @@
    # 🎯 Mission
    ## Architecting Agentic Workforces: Driven by AI, Orchestrated by Human Intelligence.
-   
- 
    <div align="center">
       
   <div align="center">
