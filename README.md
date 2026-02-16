@@ -21,9 +21,9 @@
   ---
 ## 📈 Fun projects
   <div align="center">
-TheEuchatisticMiracles.com
-SpotBattle
-
+  | 🚀 Product | 📊 Status |
+  |-------------|-----------|
+  | https://AllEucharisticMiracles.com  | LIVE |
 
   ## 🎯 Current Focus Areas
 
