@@ -49,4 +49,3 @@ https://www.linkedin.com/in/myles-norton-4b62a0240
   The second best time is today." - Anonymous
 
   </div>
-- Myles Norton
