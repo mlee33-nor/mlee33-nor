@@ -12,8 +12,8 @@
   | [RSA STOCK FINDER ]([https://github.com](https://github.com/mlee33-nor/RSA-STOCK-SPLIT-FINDER)) | In Development |
   | AGENTIC ENGINEERING TEAM | In Development |
 
-## 📈 Agent - Engineering Team Projects
-    <div align="center">
+## 🎯 Agent - Engineering Team Projects
+
   | 🚀 AGENT ENGINEERING TEAM | 📊 Status |
   |-------------|-----------|
   | BTC 15-MIN Arbitrage Trader | In Beta |
