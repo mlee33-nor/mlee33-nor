@@ -22,8 +22,8 @@
 
   | PRODUCT | 📊 INCOME |
   |-------------|-----------|
-  | [RSA STOCK FINDER | $650-900+/MO
-  | EVMAXXING.COM |UNIT BASED - FEB: UP 4 UNTIS|
+  | RSA STOCK FINDER | $650-900+/MO
+  | https://EVMAXXING.COM |UNIT BASED - FEB: UP 4 UNTIS|
  
   ---
 ## 📈 Fun projects
