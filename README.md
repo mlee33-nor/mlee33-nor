@@ -21,9 +21,7 @@
   ---
 ## 📈 Fun projects
   <div align="center">
-  | 🚀 Product | 📊 Status |
-  |-------------|-----------|
-  | https://AllEucharisticMiracles.com  | LIVE |
+https://AllEucharisticMiracles.com 
 
   ## 🎯 Current Focus Areas
 
