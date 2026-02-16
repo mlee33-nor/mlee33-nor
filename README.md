@@ -1,10 +1,9 @@
    # 🎯 Mission
-   ## Scaling revenue with autonomous agents. Masterminded by human intellect.
+   ## Building Agentic workforces. Masterminded by human intellect.
    
  
    <div align="center">
       
- ## 📱 Revenue-Generating Products
   <div align="center">
 
   | 🚀 Product | 📊 Status |
