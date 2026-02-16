@@ -40,15 +40,7 @@ https://AllEucharisticMiracles.com
 https://www.linkedin.com/in/myles-norton-4b62a0240
 
   </div>
-
-  ---
-
-  ## 🎯 2026 Goals
-
-  Q1: Launch 10 new iOS apps 
-  Q2: Reach $8,000 MRR across all products
-  Q3: Scale RSA and Stock analysis models.
-
+  
   ---
 
   <div align="center">
