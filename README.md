@@ -19,6 +19,11 @@
  (EVMaxxing.com):              Undisclosed (Up 3 Units Feb 2026)
  
   ---
+## 📈 Fun projects
+  <div align="center">
+TheEuchatisticMiracles.com
+SpotBattle
+
 
   ## 🎯 Current Focus Areas
 
