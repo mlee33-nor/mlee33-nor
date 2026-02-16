@@ -11,15 +11,15 @@
   | EVMAXXING.COM | In Beta |
   | [RSA STOCK FINDER ]([https://github.com](https://github.com/mlee33-nor/RSA-STOCK-SPLIT-FINDER)) | In Development |
   | AGENTIC ENGINEERING TEAM | In Development |
-  | 
-  --> Agentic Engineering team built BTC 15 min window arbitrage trader
 
+    | 🚀 Agent Engineered | 📊 Status |
+  |-------------|-----------|
+  | BTC 15 Minute Auto Trader | In Development |
 
 ## 📈 Business Metrics
 
- (RSA-STOCK-SPLIT-FINDER):     $800/MO
- 
- (EVMaxxing.com):              Undisclosed (Up 3 Units Feb 2026)
+ |RSA-STOCK-SPLIT-FINDER|:     $800/MO
+ |https://evmaxxing.com|:      UNIT BASED: FEB = UP 4 UNITS
  
   ---
 ## 📈 Fun projects
