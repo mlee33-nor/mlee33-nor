@@ -20,8 +20,10 @@
 
 ## 📈 Business Metrics
 
- |RSA-STOCK-SPLIT-FINDER|:     $800/MO
- |https://evmaxxing.com|:      UNIT BASED: FEB = UP 4 UNITS
+  | PRODUCT | 📊 INCOME |
+  |-------------|-----------|
+  | [RSA STOCK FINDER | $650-900+/MO
+  | EVMAXXING.COM |UNIT BASED - FEB: UP 4 UNTIS|
  
   ---
 ## 📈 Fun projects
