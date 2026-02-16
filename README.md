@@ -11,10 +11,10 @@
   | EVMAXXING.COM | In Beta |
   | [RSA STOCK FINDER ]([https://github.com](https://github.com/mlee33-nor/RSA-STOCK-SPLIT-FINDER)) | In Development |
   | AGENTIC ENGINEERING TEAM | In Development |
-
-    | 🚀 Agent Engineered | 📊 Status |
+  <div align="center">
+  | 🚀 AGENT ENGINEERING TEAM | 📊 Status |
   |-------------|-----------|
-  | BTC 15 Minute Auto Trader | In Development |
+  | BTC 15-MIN Arbitrage Trader | In Beta |
 
 ## 📈 Business Metrics
 
