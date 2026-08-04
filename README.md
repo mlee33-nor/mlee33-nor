@@ -6,8 +6,7 @@
 
   | 🚀 Projects | 📊 Status |
   |-------------|-----------|
-  | [EVMAXXING.COM](https://EVMAXXING.COM) | In Beta |
-  | [RSA STOCK FINDER ]([https://github.com](https://github.com/mlee33-nor/RSA-STOCK-SPLIT-FINDER)) | In Development |
+  | [RSA S ]([rsamaxxed.com) | In Development |
   | AGENTIC ENGINEERING TEAM | In Development |
 
 ## 🎯 Agent - Engineering Team Projects
